@@ -1,1 +1,3 @@
 # cifar100
+
+在resnet18上进行cifar100的分类任务，训练及测试结果见Cifar100_resnet18.ipynb
